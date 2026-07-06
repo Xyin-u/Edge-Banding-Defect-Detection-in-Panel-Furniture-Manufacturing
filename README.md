@@ -1,4 +1,13 @@
-This repository contains the official implementation of our paper: "An Improved Real-Time Detection Transformer Algorithm for Edge Banding Defect Detection in Panel Furniture Manufacturing".
+# 🚀 Official Implementation
 
-Our work introduces three key improvements to the RT-DETR framework for industrial edge banding defect detection: (1) a Rep-PConv backbone that reduces model parameters via partial convolution and structural re-parameterization, (2) a polarity-aware linear attention mechanism (Pola-AIFI) that captures complete query-key interactions for tiny defect detection. 
-(3) a Focaler-MPDIoU loss that enhances bounding box regression accuracy.
+This repository contains the official implementation of our paper:
+
+> **"An Improved Real-Time Detection Transformer Algorithm for Edge Banding Defect Detection in Panel Furniture Manufacturing"**
+
+## ✨ Key Improvements
+
+We introduce three key improvements to the RT-DETR framework:
+
+- 🧩 **Rep-PConv Backbone** – Reduces model parameters via partial convolution and structural re-parameterization.
+- 🎯 **Pola-AIFI** (Polarity-Aware Linear Attention) – Captures complete query-key interactions for tiny defect detection.
+- 📐 **Focaler-MPDIoU Loss** – Enhances bounding box regression accuracy.
